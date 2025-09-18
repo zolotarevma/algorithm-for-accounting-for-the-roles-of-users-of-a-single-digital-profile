@@ -1,0 +1,6 @@
+login,password,role,full_name,verified,categories
+user,1234,user,Иванов Иван Иванович,true,студенты вузов;сельская молодёжь
+user2,1234,user,Петрова Мария Сергеевна,false,молодые ветераны СВО
+organizer,1234,organizer,Петров Петр Петрович,true,
+moderator,1234,moderator,Сидоров Алексей Владимирович,true,
+organizer2,1234,organizer,Петренко Петр Петрович,true,
